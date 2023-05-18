@@ -1,0 +1,30 @@
+.base-button {
+  background-color: blue;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  color: white;
+  border-radius: 3px;
+  box-shadow: 2px -1px 17px -3px rgbal(,0,0,0,0.75) inset;
+}
+
+.fancy-button {
+  background-color: black;
+  color: red;
+
+  }
+
+.fancy-button:hover{
+   background-color: darkblue;
+}
+
+.fancy-button:active{
+  background-color: darkblue;
+  color: red;
+}
+  
+.sucess-button {
+  background-color: green;
+  color: white;
+  }
